@@ -8,8 +8,8 @@ This is a temporary script file.
 import numpy as np
 
 def say_hello():
-    print('hello')
+    print('hello'+name)
     return
 
 
-say_hello()
+say_hello('Abbas')
