@@ -6,10 +6,10 @@ This is a temporary script file.
 """
 
 import numpy as np
-print('hello')
-print('hello again2')
 
-import math
-a=2*5
-b=2*np.sin(np.pi)
-print(a)
+def say_hello():
+    print('hello')
+    return
+
+
+say_hello()
