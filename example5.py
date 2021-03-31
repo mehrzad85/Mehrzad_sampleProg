@@ -1,15 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Spyder Editor
+Created on Wed Mar 31 11:44:47 2021
 
-This is a temporary script file.
+@author: WIN10
 """
 
-import numpy as np
-
-def say_hello():
-    print('hello'+name)
-    return
-
-
-say_hello('Abbas')
